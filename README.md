@@ -7,7 +7,7 @@ markdown
 
 This project presents a detailed Hotel Booking Demand Analysis Dashboard created using Power BI. The dashboard gives data-driven insights into hotel booking trends, customer behavior, seasonal demands, cancellations, and much more. It empowers stakeholders to make smarter decisions in managing resources, pricing, and guest satisfaction.
 
-> This project is designed for hoteliers, data analysts, and travel platforms who want to understand the key drivers behind hotel booking patterns and optimize their operations accordingly.
+ This project is designed for hoteliers, data analysts, and travel platforms who want to understand the key drivers behind hotel booking patterns and optimize their operations accordingly.
 
 ---
 
